@@ -11261,5 +11261,7 @@ input[type=color] {
   border: 1px solid var(--td-common-line);
   z-index: 2;
 }
-
+.text-inline-start {
+  text-align: end;
+}
 /*# sourceMappingURL=main.css.map */
